@@ -1,1 +1,1 @@
-web: gunicorn facescore-django.wsgi
+web: gunicorn facerecognition.wsgi
